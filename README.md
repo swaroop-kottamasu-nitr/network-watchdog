@@ -23,3 +23,9 @@ A Python-based network monitoring script that performs:
 - DNS resolution
 - Timestamped logging
 - Network traffic capture and analysis
+
+## Packet Capture Evidence
+Traffic was captured and analyzed using Wireshark/tcpdump to observe:
+- ICMP Echo Requests/Replies
+- DNS traffic
+- TCP SYN packets
